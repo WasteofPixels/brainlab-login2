@@ -1,0 +1,51 @@
+
+
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  background-color: #fcd530;
+  
+
+}
+header{
+  
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  background-color:#ce1920;
+  height: 70px;
+  font-size: 28px;
+  border-radius: 10px 10px;
+  text-align: center;
+  color: aliceblue;
+  
+  
+
+}
+
+
+.card{
+  background-color: aliceblue;
+  display: flex;
+  justify-content:space-around;
+}
+img{
+  width: 50%;
+  display: flex;
+  justify-content:left ;
+  
+  
+  
+}
+.inputs{
+  display:flex;
+  justify-content: center;
+  justify-items: center;
+  flex-direction: column;
+  margin-top: 20%;
+  margin-bottom: 20%;
+  font-weight: bold;
+  font-size: 18px;
+}
